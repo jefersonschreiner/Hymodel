@@ -23,7 +23,7 @@ pip install hymodel
 Para desenvolvimento, a partir do código-fonte:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/jefersonschreiner/Hymodel.git
 cd Hymodel
 pip install -e ".[dev]"
 pytest
@@ -105,8 +105,8 @@ pytest
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jefersonschreiner/Hymodel/blob/main/LICENSE).
 
 ## Autor
 
-Jeferson Schreiner Junior
+ Jeferson Schreiner Junior — [@jefersonschreiner](https://github.com/jefersonschreiner)

@@ -18,6 +18,11 @@ dependencies = [
     "matplotlib>=3.4",
 ]
 
+[project.urls]
+Homepage = "https://github.com/jefersonschreiner/Hymodel"
+Repository = "https://github.com/jefersonschreiner/Hymodel"
+Issues = "https://github.com/jefersonschreiner/Hymodel/issues"
+
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "pytest-cov", "black", "flake8", "mypy"]
 docs = ["sphinx", "sphinx-rtd-theme"]
